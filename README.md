@@ -1,4 +1,4 @@
-# 🌐 Raghav Gupta – Web3 & Blockchain Developer Portfolio
+# 🌐 Raghav Gupta – Web3 & Blockchain Developer
 
 This repository contains my personal portfolio website showcasing my skills, projects, and experience in **Web3 and Blockchain development**.
 
@@ -44,7 +44,7 @@ I enjoy designing secure, transparent, and scalable Web3 systems.
 
 ## 📫 Contact
 - **Email:** rg0257245@gmail.com
-- **LinkedIn:** https://linkedin.com/in/raghav-gupta-381690284/
+- **LinkedIn:** [Link](https://www.linkedin.com/in/raghav-gupta-381690284/)
 
 ---
 
