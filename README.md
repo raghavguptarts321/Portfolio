@@ -42,11 +42,6 @@ I enjoy designing secure, transparent, and scalable Web3 systems.
 
 ---
 
-## 📄 Resume
-📥 [Download Resume](resume.pdf)
-
----
-
 ## 📫 Contact
 - **Email:** rg0257245@gmail.com
 - **LinkedIn:** https://linkedin.com/in/raghav-gupta-381690284/
